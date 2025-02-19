@@ -4,7 +4,7 @@
 
 # Purpose
 
-Looking for junior data analyst position in healthcare indstury
+- continue with PhD
 
 # Education
 - Tunghai University    
