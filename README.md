@@ -1,5 +1,7 @@
 # Machine Learning for Business Analytics
 
+![](loaf.jpg)
+
 # Purpose
 
 Looking for junior data analyst position in healthcare indstury
@@ -17,3 +19,4 @@ Looking for junior data analyst position in healthcare indstury
 - Python 
 - Basic German, Thai and French
 - Accounting
+
