@@ -7,11 +7,8 @@ Looking for junior data analyst position in healthcare indstury
 # Education
 
 - Tunghai University    
-    -GMBA
-- asfsdfsadf
-- asdfsadfsdf
+    Finance
 
 # Experience
 
 - Academia sinicia
-
