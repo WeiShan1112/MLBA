@@ -12,8 +12,8 @@ Looking for junior data analyst position in healthcare indstury
 - Teachers assistants
 
 # Skills
- -Fianancial reports analysis
- -Macroeconomics and microeconomics analysis
- -Python 
- -Basic German, Thai and French
- -Accounting
+- Fianancial reports analysis
+- Macroeconomics and microeconomics analysis
+- Python 
+- Basic German, Thai and French
+- Accounting
